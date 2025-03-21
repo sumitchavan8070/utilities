@@ -49,8 +49,8 @@ dependencies:
   intl: ^0.19.0
   image_cropper: ^5.0.0
 
-  study_abroad:
-    path: /home/user/Apps/Gradding/gradding-packages/study_abroad
+#  study_abroad:
+#    path: /home/user/Apps/Gradding/gradding-packages/study_abroad
 
   package_info_plus: ^8.0.2
   device_info_plus: ^11.3.0
